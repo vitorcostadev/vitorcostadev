@@ -29,6 +29,14 @@
   <img src="./assets/c.png" title="C" alt="C" width="58" />
 </p>
 
+<sub>FERRAMENTAS / TOOLS</sub>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="58" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="58" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="58" />
+</p>
+
 <br>
 
 ### 03 / Um pensamento · A little thought `余韻`
