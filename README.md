@@ -4,15 +4,15 @@
 
 <br>
 
-### 01 / Sobre · About `自己紹介`
+### Sobre · About `自己紹介`
 
-**PT** — Este é meu espaço para guardar projetos da faculdade, estudos e experimentos que nascem de ideias aleatórias. Nem tudo precisa ter um propósito além da curiosidade.
+Este é meu espaço para guardar projetos da faculdade, estudos e experimentos que nascem de ideias aleatórias. Nem tudo precisa ter um propósito além da curiosidade.
 
-**EN** — This is my space for university projects, things I'm learning, and experiments born from random ideas. Not everything needs a purpose beyond curiosity.
+This is my space for university projects, things I'm learning, and experiments born from random ideas. Not everything needs a purpose beyond curiosity.
 
 <br>
 
-### 02 / Tecnologias · Technologies `技術`
+### Tecnologias · Technologies `技術`
 
 <sub>NO MEU DIA A DIA / WHAT I WORK WITH</sub>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-### 03 / Um pensamento · A little thought `余韻`
+### Um pensamento · A little thought `余韻`
 
 > *“Nem toda fuga é sobre ir embora.”*  
 > *“Not every escape is about leaving.”*
@@ -48,7 +48,7 @@
 
 <br>
 
-### 04 / Por aí · Find me `連絡先`
+### Por aí · Find me `連絡先`
 
 **Twitter / X** — [@yorucrf](https://x.com/yorucrf)  
 **Discord** — `@yorucrf`
