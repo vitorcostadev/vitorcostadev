@@ -32,9 +32,9 @@
 <sub>FERRAMENTAS / TOOLS</sub>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="58" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="58" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="58" />
+  <img src="./assets/vscode.svg" title="Visual Studio Code" alt="VS Code" width="58" />&nbsp;
+  <img src="./assets/intellij.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="58" />&nbsp;
+  <img src="./assets/mysql.svg" title="MySQL" alt="MySQL" width="58" />
 </p>
 
 <br>
